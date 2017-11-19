@@ -1,0 +1,297 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            76:76:42:f6:96:51:5d:13:46:b9:58:c1:65:c8:c9:92
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: OU=Engineering, C=US, L=Sunnyvale, ST=CA, O=Advanced Micro Devices, CN=TPMINTRM
+        Validity
+            Not Before: Jun  7 12:12:00 2016 GMT
+            Not After : Jun  7 12:12:00 2026 GMT
+        Subject: 
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e7:ef:29:dc:4a:69:74:07:fe:5a:b2:22:76:21:
+                    99:76:bc:c1:6a:7c:9d:47:1d:68:35:12:0f:68:10:
+                    cb:5a:eb:0c:b0:31:46:ac:a5:cb:da:2c:5d:76:2e:
+                    43:26:9d:c9:7c:00:18:12:c3:5f:24:86:ec:89:09:
+                    b8:c4:fb:b5:57:9f:91:75:54:55:aa:12:cd:e9:3a:
+                    56:ac:b7:14:94:04:9e:4c:31:c9:04:2c:b5:46:69:
+                    66:ff:8c:f9:5c:66:87:2e:c1:a7:32:d8:07:eb:f3:
+                    fe:9f:3f:24:6c:2c:43:d3:08:70:5b:53:fc:c2:1e:
+                    e4:04:8a:8b:dd:cf:8e:43:2e:45:5a:cf:56:e4:3e:
+                    4f:96:95:1e:fc:35:01:fc:d1:5e:6c:bf:97:58:ed:
+                    bf:d9:d8:6f:09:d4:59:f8:3e:b8:57:48:f0:85:cf:
+                    50:f1:7a:54:b7:4b:7a:bd:7a:73:cd:a7:a1:20:38:
+                    23:92:37:05:f5:e1:fa:a4:53:5f:cb:f7:46:58:77:
+                    12:d0:da:c7:6a:97:b5:3f:98:d1:b9:85:2d:91:79:
+                    55:d1:d7:c7:24:57:e0:76:1d:c4:15:91:88:37:cd:
+                    2a:ba:60:c4:2c:18:33:45:2a:a9:57:73:4f:1b:19:
+                    5c:b1:dd:1e:cc:81:42:3b:d2:57:71:e4:f4:8a:b4:
+                    e1:97
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:3C:6E:BA:92:F3:8D:F0:05:6B:00:3B:EA:59:83:63:54:FC:AD:34:E7
+
+            X509v3 Key Usage: critical
+                Key Encipherment
+            Authority Information Access: 
+                CA Issuers - URI:http://ftpm.amd.com/pki/aia/83F3AC1A6FBB594759712561229ACFB6
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.3704.101.21.10
+                  CPS: https://ftpm.amd.com/pki/cps
+
+            X509v3 Extended Key Usage: 
+                2.23.133.8.1
+            X509v3 Subject Alternative Name: critical
+                DirName:/2.23.133.2.1=id:414D4400/2.23.133.2.2=AMD /2.23.133.2.3=id:00020009
+            X509v3 Subject Directory Attributes: 
+                0?0...g....1.0...id:322E3000.....y0...g....1.0...................
+    Signature Algorithm: sha256WithRSAEncryption
+         bc:d3:6c:85:ac:54:75:5a:39:1a:21:3e:bc:11:a2:50:1b:a6:
+         0c:35:44:49:f6:4b:19:28:83:1a:07:f8:88:4d:44:8e:4d:c7:
+         f1:41:79:4d:06:55:84:cf:ec:3f:70:04:c5:f4:7e:fe:6d:0d:
+         56:24:41:40:fb:2b:c2:ef:4a:b2:1f:78:ca:1f:d0:a8:f4:5a:
+         b6:24:b5:81:28:9b:79:ba:d3:bc:56:63:d3:ea:91:1c:12:40:
+         ee:1d:58:68:ae:2b:33:0d:09:20:be:f1:70:ed:a6:f5:09:e6:
+         89:f1:cc:8a:d4:30:59:2e:65:64:69:32:75:79:02:30:53:f8:
+         3e:87:36:50:4f:72:23:63:a0:1e:e6:d1:8b:d7:97:42:73:96:
+         20:b4:30:33:40:62:e4:19:9d:9a:d0:88:88:db:f2:d7:88:f4:
+         b7:e5:a8:b3:da:c8:23:71:e9:16:e6:19:48:2e:76:8b:48:01:
+         fb:ca:d5:22:e5:0b:eb:c0:25:f3:0f:c4:ef:ec:ba:b6:93:e5:
+         ae:12:42:ae:9b:34:74:03:3f:bb:b9:59:30:91:d1:82:9b:a8:
+         64:62:49:92:de:58:f8:c5:be:20:42:5b:fe:ff:dd:9c:67:3d:
+         8f:ad:62:10:ee:2a:2b:25:3f:ce:45:74:07:6f:ea:9e:50:2d:
+         18:1a:fe:96
+-----BEGIN CERTIFICATE-----
+MIIEjjCCA3agAwIBAgIQdnZC9pZRXRNGuVjBZcjJkjANBgkqhkiG9w0BAQsFADB4
+MRQwEgYDVQQLEwtFbmdpbmVlcmluZzELMAkGA1UEBhMCVVMxEjAQBgNVBAcTCVN1
+bm55dmFsZTELMAkGA1UECBMCQ0ExHzAdBgNVBAoTFkFkdmFuY2VkIE1pY3JvIERl
+dmljZXMxETAPBgNVBAMTCFRQTUlOVFJNMBoXCzE2MDYwNzEyMTJaFwsyNjA2MDcx
+MjEyWjAAMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5+8p3EppdAf+
+WrIidiGZdrzBanydRx1oNRIPaBDLWusMsDFGrKXL2ixddi5DJp3JfAAYEsNfJIbs
+iQm4xPu1V5+RdVRVqhLN6TpWrLcUlASeTDHJBCy1Rmlm/4z5XGaHLsGnMtgH6/P+
+nz8kbCxD0whwW1P8wh7kBIqL3c+OQy5FWs9W5D5PlpUe/DUB/NFebL+XWO2/2dhv
+CdRZ+D64V0jwhc9Q8XpUt0t6vXpzzaehIDgjkjcF9eH6pFNfy/dGWHcS0NrHape1
+P5jRuYUtkXlV0dfHJFfgdh3EFZGIN80qumDELBgzRSqpV3NPGxlcsd0ezIFCO9JX
+ceT0irThlwIDAQABo4IBjjCCAYowCQYDVR0TBAIwADAfBgNVHSMEGDAWgBQ8brqS
+843wBWsAO+pZg2NU/K005zAOBgNVHQ8BAf8EBAMCBSAwWAYIKwYBBQUHAQEETDBK
+MEgGCCsGAQUFBzAChjxodHRwOi8vZnRwbS5hbWQuY29tL3BraS9haWEvODNGM0FD
+MUE2RkJCNTk0NzU5NzEyNTYxMjI5QUNGQjYwQwYDVR0gBDwwOjA4BgorBgEEAZx4
+ZRUKMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vZnRwbS5hbWQuY29tL3BraS9jcHMw
+EAYDVR0lBAkwBwYFZ4EFCAEwUQYDVR0RAQH/BEcwRaRDMEExFjAUBgVngQUCAQwL
+aWQ6NDE0RDQ0MDAxDzANBgVngQUCAgwEQU1EIDEWMBQGBWeBBQIDDAtpZDowMDAy
+MDAwOTBIBgNVHQkEQTA/MB4GBWeBBQIQMRUwEwwLaWQ6MzIyRTMwMDACAQACAXkw
+HQYFZ4EFAhIxFDASAgEAAQH/gAEAgQEAggEAhQH/MA0GCSqGSIb3DQEBCwUAA4IB
+AQC802yFrFR1WjkaIT68EaJQG6YMNURJ9ksZKIMaB/iITUSOTcfxQXlNBlWEz+w/
+cATF9H7+bQ1WJEFA+yvC70qyH3jKH9Co9Fq2JLWBKJt5utO8VmPT6pEcEkDuHVho
+riszDQkgvvFw7ab1CeaJ8cyK1DBZLmVkaTJ1eQIwU/g+hzZQT3IjY6Ae5tGL15dC
+c5YgtDAzQGLkGZ2a0IiI2/LXiPS35aiz2sgjcekW5hlILnaLSAH7ytUi5QvrwCXz
+D8Tv7Lq2k+WuEkKumzR0Az+7uVkwkdGCm6hkYkmS3lj4xb4gQlv+/92cZz2PrWIQ
+7iorJT/ORXQHb+qeUC0YGv6W
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            83:f3:ac:1a:6f:bb:59:47:59:71:25:61:22:9a:cf:b6
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: OU=Engineering, C=US, L=Sunnyvale, ST=CA, O=Advanced Micro Devices, CN=AMDTPM
+        Validity
+            Not Before: Feb 20 03:38:33 2017 GMT
+            Not After : Feb 20 03:38:33 2042 GMT
+        Subject: OU=Engineering, C=US, L=Sunnyvale, ST=CA, O=Advanced Micro Devices, CN=TPMINTRM
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c1:4c:bd:05:5c:b7:98:6f:e2:2a:99:75:10:b6:
+                    76:1d:22:56:6e:d2:9e:1b:b4:9e:9f:e9:fb:fe:9a:
+                    f1:9c:02:dc:05:6d:31:76:e8:02:e6:2d:6d:4d:6c:
+                    7e:96:b1:4b:09:8c:fc:3d:49:6a:c2:df:0a:03:b9:
+                    38:11:ae:26:98:7a:f7:7a:9d:55:d3:05:b7:e9:8b:
+                    64:85:d6:88:63:d3:24:19:7f:fc:fc:b6:2c:88:8f:
+                    8c:22:08:58:fa:c4:cf:75:45:d2:e8:d4:56:c8:6f:
+                    bb:21:96:34:c8:7d:61:14:8f:5e:a1:bb:62:07:23:
+                    10:56:ca:85:79:db:27:84:87:0f:7d:cc:de:d4:b8:
+                    cc:21:e4:29:a2:c4:d0:75:c7:7f:ef:7b:f9:07:f2:
+                    39:d3:69:ef:c5:8e:e4:7c:af:48:9f:00:89:39:5c:
+                    98:40:a3:62:e2:79:e0:67:e4:43:0d:ad:30:41:e6:
+                    f2:30:44:11:da:e6:68:7f:9e:1e:ae:dc:25:bc:b9:
+                    98:3d:e2:45:d5:60:d5:fc:e8:cc:03:a9:83:71:48:
+                    3a:44:2c:9d:d4:cb:3a:01:ee:8d:30:28:12:13:22:
+                    c6:63:c1:4b:28:36:02:be:c9:5b:75:39:f1:0d:8b:
+                    8a:24:6e:cf:3e:74:d3:b9:2a:3f:ce:78:50:c4:22:
+                    72:91
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign
+            Authority Information Access: 
+                CA Issuers - URI:http://ftpm.amd.com/pki/aia/264D39A23CEB5D5B49D610044EEBD121
+                OCSP - URI:http://ftpm.amd.com/pki/ocsp
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://ftpm.amd.com/pki/crl
+
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: https://ftpm.amd.com/pki/cps
+
+            X509v3 Subject Key Identifier: 
+                3C:6E:BA:92:F3:8D:F0:05:6B:00:3B:EA:59:83:63:54:FC:AD:34:E7
+            X509v3 Authority Key Identifier: 
+                keyid:57:8C:54:5F:79:69:51:42:12:21:A4:A5:78:AC:DB:5F:68:2F:89:C8
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+    Signature Algorithm: sha256WithRSAEncryption
+         9c:e2:a5:81:72:7c:6b:29:c8:b0:f4:ab:94:97:13:f1:f3:ba:
+         59:86:c8:33:72:3e:e9:97:e3:1d:54:2d:8f:cd:d8:90:0b:1d:
+         30:37:ae:b8:a5:a3:69:80:d3:e1:7d:bb:9b:a3:4e:92:a9:49:
+         9a:85:c8:da:cd:bc:39:8f:d3:49:eb:80:60:cd:92:8b:a4:1f:
+         cb:a3:c3:a6:02:64:90:cb:08:1b:cf:ad:7a:39:cb:e7:35:b2:
+         9f:73:a9:c9:f9:74:4c:62:fa:e3:68:e0:80:54:cb:92:5b:fb:
+         f7:a5:02:bd:9b:4e:16:a1:dc:7e:9a:c1:b3:df:63:fa:06:47:
+         76:70:76:57:64:10:12:ed:80:42:5e:f3:73:dd:f9:21:18:08:
+         ac:a1:bb:19:17:46:a6:c0:a9:b5:c7:3e:39:7d:d7:6d:5d:bc:
+         43:ae:09:fe:43:9f:b3:cd:62:d6:eb:e1:e8:0f:44:52:05:41:
+         14:12:3d:1f:50:db:3c:6b:93:80:1b:9e:cb:5a:d5:a2:1b:92:
+         9b:a8:33:da:6b:ad:a4:30:9b:ce:4a:4f:13:11:30:b3:af:d3:
+         dc:22:0b:91:0c:8c:7e:c9:b4:9b:bd:cb:d1:c4:dd:f1:90:28:
+         5f:b8:37:b1:cd:cc:2c:bb:42:8d:4d:6c:64:4c:ec:8a:54:2e:
+         08:81:c2:23
+-----BEGIN CERTIFICATE-----
+MIIE1TCCA72gAwIBAgIRAIPzrBpvu1lHWXElYSKaz7YwDQYJKoZIhvcNAQELBQAw
+djEUMBIGA1UECxMLRW5naW5lZXJpbmcxCzAJBgNVBAYTAlVTMRIwEAYDVQQHEwlT
+dW5ueXZhbGUxCzAJBgNVBAgTAkNBMR8wHQYDVQQKExZBZHZhbmNlZCBNaWNybyBE
+ZXZpY2VzMQ8wDQYDVQQDEwZBTURUUE0wHhcNMTcwMjIwMDMzODMzWhcNNDIwMjIw
+MDMzODMzWjB4MRQwEgYDVQQLEwtFbmdpbmVlcmluZzELMAkGA1UEBhMCVVMxEjAQ
+BgNVBAcTCVN1bm55dmFsZTELMAkGA1UECBMCQ0ExHzAdBgNVBAoTFkFkdmFuY2Vk
+IE1pY3JvIERldmljZXMxETAPBgNVBAMTCFRQTUlOVFJNMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAwUy9BVy3mG/iKpl1ELZ2HSJWbtKeG7Sen+n7/prx
+nALcBW0xdugC5i1tTWx+lrFLCYz8PUlqwt8KA7k4Ea4mmHr3ep1V0wW36YtkhdaI
+Y9MkGX/8/LYsiI+MIghY+sTPdUXS6NRWyG+7IZY0yH1hFI9eobtiByMQVsqFedsn
+hIcPfcze1LjMIeQposTQdcd/73v5B/I502nvxY7kfK9InwCJOVyYQKNi4nngZ+RD
+Da0wQebyMEQR2uZof54ertwlvLmYPeJF1WDV/OjMA6mDcUg6RCyd1Ms6Ae6NMCgS
+EyLGY8FLKDYCvslbdTnxDYuKJG7PPnTTuSo/znhQxCJykQIDAQABo4IBWjCCAVYw
+DgYDVR0PAQH/BAQDAgEEMIGCBggrBgEFBQcBAQR2MHQwSAYIKwYBBQUHMAKGPGh0
+dHA6Ly9mdHBtLmFtZC5jb20vcGtpL2FpYS8yNjREMzlBMjNDRUI1RDVCNDlENjEw
+MDQ0RUVCRDEyMTAoBggrBgEFBQcwAYYcaHR0cDovL2Z0cG0uYW1kLmNvbS9wa2kv
+b2NzcDAsBgNVHR8EJTAjMCGgH6AdhhtodHRwOi8vZnRwbS5hbWQuY29tL3BraS9j
+cmwwPQYDVR0gBDYwNDAyBgRVHSAAMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vZnRw
+bS5hbWQuY29tL3BraS9jcHMwHQYDVR0OBBYEFDxuupLzjfAFawA76lmDY1T8rTTn
+MB8GA1UdIwQYMBaAFFeMVF95aVFCEiGkpXis219oL4nIMBIGA1UdEwEB/wQIMAYB
+Af8CAQAwDQYJKoZIhvcNAQELBQADggEBAJzipYFyfGspyLD0q5SXE/HzulmGyDNy
+PumX4x1ULY/N2JALHTA3rrilo2mA0+F9u5ujTpKpSZqFyNrNvDmP00nrgGDNkouk
+H8ujw6YCZJDLCBvPrXo5y+c1sp9zqcn5dExi+uNo4IBUy5Jb+/elAr2bThah3H6a
+wbPfY/oGR3ZwdldkEBLtgEJe83Pd+SEYCKyhuxkXRqbAqbXHPjl9121dvEOuCf5D
+n7PNYtbr4egPRFIFQRQSPR9Q2zxrk4Abnsta1aIbkpuoM9prraQwm85KTxMRMLOv
+09wiC5EMjH7JtJu9y9HE3fGQKF+4N7HNzCy7Qo1NbGRM7IpULgiBwiM=
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            26:4d:39:a2:3c:eb:5d:5b:49:d6:10:04:4e:eb:d1:21
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: OU=Engineering, C=US, L=Sunnyvale, ST=CA, O=Advanced Micro Devices, CN=AMDTPM
+        Validity
+            Not Before: Oct 23 14:34:32 2014 GMT
+            Not After : Oct 23 14:34:32 2039 GMT
+        Subject: OU=Engineering, C=US, L=Sunnyvale, ST=CA, O=Advanced Micro Devices, CN=AMDTPM
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b2:c9:ce:01:8b:b9:9d:17:e5:42:4d:1b:56:db:
+                    13:15:c2:d2:00:cc:7d:a1:d6:78:13:2d:e7:eb:f3:
+                    00:e8:50:fb:0c:40:88:13:bd:11:19:98:1a:44:82:
+                    03:d1:e6:fe:77:25:f7:ce:73:2b:a7:54:d2:fa:50:
+                    fe:18:94:b0:ef:20:c9:ac:a7:94:e2:2b:7c:70:c2:
+                    ea:16:ba:86:9b:84:84:c7:f5:f9:18:16:b5:d6:c4:
+                    e6:2f:88:ba:d2:92:79:9c:3a:36:4f:af:4e:88:9f:
+                    a2:a9:8c:e0:05:f6:09:2e:a1:d0:69:e4:91:37:a6:
+                    c1:63:29:f7:c3:51:f8:24:dc:cf:0c:db:ea:28:7b:
+                    e4:3d:f6:1e:c0:78:d4:00:52:40:23:57:52:85:83:
+                    bc:44:49:cd:08:1f:1e:7a:89:63:df:be:67:ca:67:
+                    c0:01:9c:e0:03:cb:fb:ce:61:57:ff:5b:55:2c:2c:
+                    bb:32:6e:a7:ef:39:dd:4f:8e:76:4c:1d:66:7a:4f:
+                    4b:0b:92:e4:c2:59:f2:00:1c:1a:37:64:3c:2d:5e:
+                    0d:5a:92:00:cd:38:2b:e7:9c:5b:53:95:6f:81:c2:
+                    29:c3:ef:ea:71:b6:07:9a:a2:fa:67:30:92:78:4d:
+                    60:44:a4:17:96:cc:9b:2b:e5:b8:a6:10:ad:41:f3:
+                    20:1d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            1.3.6.1.4.1.311.21.43: 
+                ..W.T_yiQB.!..x.._h/..
+            X509v3 Subject Key Identifier: 
+                57:8C:54:5F:79:69:51:42:12:21:A4:A5:78:AC:DB:5F:68:2F:89:C8
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            Authority Information Access: 
+                OCSP - URI:http://ftpm.amd.com/pki/ocsp
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://ftpm.amd.com/pki/crl
+
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: https://ftpm.amd.com/pki/cps
+
+    Signature Algorithm: sha256WithRSAEncryption
+         96:07:dc:80:a1:86:08:b7:91:d1:63:f3:aa:27:92:d4:69:c3:
+         fa:ac:d9:ac:31:f3:d4:0d:37:1a:85:70:77:89:09:98:f0:7a:
+         54:a0:60:76:de:58:71:6e:af:a4:cf:7b:c8:88:60:1c:51:d2:
+         87:96:90:7f:7a:95:f2:84:00:46:4d:c2:6b:34:f3:1f:c7:d6:
+         a4:2e:a8:48:ed:69:cc:08:f0:5b:1c:30:c3:cc:a8:e3:30:1d:
+         d5:9b:ae:4f:15:bc:ae:a9:b2:ee:8c:df:ec:37:a9:0d:b5:ce:
+         21:2f:9a:f9:3e:be:8c:cd:ee:47:f5:65:c1:a3:61:76:3b:2f:
+         bb:fb:d8:d6:32:4c:4d:ae:65:21:a1:45:2b:17:fe:98:b1:a8:
+         d3:18:f7:aa:ee:bf:a2:ea:af:38:5b:69:c9:75:df:81:a1:04:
+         2f:e2:c9:39:19:eb:8d:da:3d:ae:e2:4d:5a:f0:39:11:3e:c5:
+         4f:73:62:3d:41:3b:5b:cd:e9:1c:85:32:b5:18:25:d6:92:2d:
+         c3:28:69:19:50:4b:9a:a1:a6:ba:d0:a8:30:e7:94:39:ae:dd:
+         5e:2b:b1:ca:10:6e:67:a6:64:7c:68:4a:1d:ec:10:cb:5b:2e:
+         02:31:33:40:59:1e:62:69:b0:96:fc:a5:f6:f0:96:c9:2f:a3:
+         e1:6a:ef:63
+-----BEGIN CERTIFICATE-----
+MIIEiDCCA3CgAwIBAgIQJk05ojzrXVtJ1hAETuvRITANBgkqhkiG9w0BAQsFADB2
+MRQwEgYDVQQLEwtFbmdpbmVlcmluZzELMAkGA1UEBhMCVVMxEjAQBgNVBAcTCVN1
+bm55dmFsZTELMAkGA1UECBMCQ0ExHzAdBgNVBAoTFkFkdmFuY2VkIE1pY3JvIERl
+dmljZXMxDzANBgNVBAMTBkFNRFRQTTAeFw0xNDEwMjMxNDM0MzJaFw0zOTEwMjMx
+NDM0MzJaMHYxFDASBgNVBAsTC0VuZ2luZWVyaW5nMQswCQYDVQQGEwJVUzESMBAG
+A1UEBxMJU3Vubnl2YWxlMQswCQYDVQQIEwJDQTEfMB0GA1UEChMWQWR2YW5jZWQg
+TWljcm8gRGV2aWNlczEPMA0GA1UEAxMGQU1EVFBNMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAssnOAYu5nRflQk0bVtsTFcLSAMx9odZ4Ey3n6/MA6FD7
+DECIE70RGZgaRIID0eb+dyX3znMrp1TS+lD+GJSw7yDJrKeU4it8cMLqFrqGm4SE
+x/X5GBa11sTmL4i60pJ5nDo2T69OiJ+iqYzgBfYJLqHQaeSRN6bBYyn3w1H4JNzP
+DNvqKHvkPfYewHjUAFJAI1dShYO8REnNCB8eeolj375nymfAAZzgA8v7zmFX/1tV
+LCy7Mm6n7zndT452TB1mek9LC5LkwlnyABwaN2Q8LV4NWpIAzTgr55xbU5VvgcIp
+w+/qcbYHmqL6ZzCSeE1gRKQXlsybK+W4phCtQfMgHQIDAQABo4IBEDCCAQwwDgYD
+VR0PAQH/BAQDAgEGMCMGCSsGAQQBgjcVKwQWBBRXjFRfeWlRQhIhpKV4rNtfaC+J
+yDAdBgNVHQ4EFgQUV4xUX3lpUUISIaSleKzbX2gvicgwDwYDVR0TAQH/BAUwAwEB
+/zA4BggrBgEFBQcBAQQsMCowKAYIKwYBBQUHMAGGHGh0dHA6Ly9mdHBtLmFtZC5j
+b20vcGtpL29jc3AwLAYDVR0fBCUwIzAhoB+gHYYbaHR0cDovL2Z0cG0uYW1kLmNv
+bS9wa2kvY3JsMD0GA1UdIAQ2MDQwMgYEVR0gADAqMCgGCCsGAQUFBwIBFhxodHRw
+czovL2Z0cG0uYW1kLmNvbS9wa2kvY3BzMA0GCSqGSIb3DQEBCwUAA4IBAQCWB9yA
+oYYIt5HRY/OqJ5LUacP6rNmsMfPUDTcahXB3iQmY8HpUoGB23lhxbq+kz3vIiGAc
+UdKHlpB/epXyhABGTcJrNPMfx9akLqhI7WnMCPBbHDDDzKjjMB3Vm65PFbyuqbLu
+jN/sN6kNtc4hL5r5Pr6Mze5H9WXBo2F2Oy+7+9jWMkxNrmUhoUUrF/6YsajTGPeq
+7r+i6q84W2nJdd+BoQQv4sk5GeuN2j2u4k1a8DkRPsVPc2I9QTtbzekchTK1GCXW
+ki3DKGkZUEuaoaa60Kgw55Q5rt1eK7HKEG5npmR8aEod7BDLWy4CMTNAWR5iabCW
+/KX28JbJL6Phau9j
+-----END CERTIFICATE-----
